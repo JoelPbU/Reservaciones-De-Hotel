@@ -34,9 +34,6 @@ Ingrese el número de noches:
 Ingrese el precio por noche:
 50
 
-
-Reporte final:
-Cliente: Juan Pérez - Habitación: 101 - Total a pagar: 150.0
 ```
 ## 📋 Salida
 ```
